@@ -9,6 +9,6 @@ This issue has significantly impacted the company across various aspects. In an 
  XYZ Company has approached an HR analytics consultancy to analyze the available data.You are playing the role of an HR analyst in this project, 
 tasked with building a dashboard that can assist the organization in making data-driven decisions.
 <br>
-<h3>Tools Used :- Power Bi</h3>
+<h2>Tools Used :- Power Bi</h2>
 <br>
-<h2>Data Preparation</h2>
+<h3>Data Preparation</h3>
