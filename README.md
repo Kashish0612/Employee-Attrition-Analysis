@@ -14,9 +14,9 @@ tasked with building a dashboard that can assist the organization in making data
 Data Preparation: The dataset was sourced from Unified Mentor Company. Employing the Extract, Transform, Load (ETL) process, I extracted the data, decompressed it, 
 and imported it into Power BI for subsequent cleansing, transformation, and analysis. All analytical procedures were conducted within the Power BI environment.
 <h3>Data Cleaning :</h3>
+During the data cleaning phase, the following steps were undertaken:
 <ul >
  <li>
-  During the data cleaning phase, the following steps were undertaken :-
   <ol type = "1">
   <li>Checked For Duplicates</li>
  </li>
