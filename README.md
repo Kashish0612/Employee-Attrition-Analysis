@@ -10,7 +10,6 @@ This issue has significantly impacted the company across various aspects. In an 
 tasked with building a dashboard that can assist the organization in making data-driven decisions.
 <br>
 <h2>Tools Used :- Power Bi</h2>
-<br>
 <h3>Data Preparation:</h3>
 Data Preparation: The dataset was sourced from Unified Mentor Company. Employing the Extract, Transform, Load (ETL) process, I extracted the data, decompressed it, 
 and imported it into Power BI for subsequent cleansing, transformation, and analysis. All analytical procedures were conducted within the Power BI environment.
