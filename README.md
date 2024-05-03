@@ -29,7 +29,9 @@ tasked with building a dashboard that can assist the organization in making data
   <li>Added new columns such as age group , attrition counts , salary slab.</li>
 </ul>
 <h3>Analysis</h3>
+<br>
 A set of KPIs has been designed to address the following points.
+<br>
 <ul>
   <li>
     <strong>Employee Count: </strong>
