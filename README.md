@@ -24,4 +24,7 @@ tasked with building a dashboard that can assist the organization in making data
 <h3>Data Cleaning/Transformation :</h3>
 <ul>
   <li>Checked for Duplicates</li>
+  <li>Checked for Null/Blank values.</li>
+  <li>Replaced null values with statistical central tendency using mode.</li>
+  <li>Added new columns such as age group , attrition counts , salary slab</li>
 </ul>
