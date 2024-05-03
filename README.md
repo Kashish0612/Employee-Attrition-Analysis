@@ -21,6 +21,9 @@ XYZ Company, established a few years back, has been experiencing an approximatel
 This issue has significantly impacted the company across various aspects. In an effort to understand why employees are leaving and to reduce the attrition rate,
  XYZ Company has approached an HR analytics consultancy to analyze the available data.You are playing the role of an HR analyst in this project, 
 tasked with building a dashboard that can assist the organization in making data-driven decisions.
+<h3>Data Source :</h3>
+The raw data for this project was obtained in the form of csv file with 29 columns and approximately 4.4k rows.
+The data contained information about employee demographics, job roles, salaries, tenures, among others.
 <h3>Data Cleaning/Transformation :</h3>
 <ul>
   <li>Checked for Duplicates.</li>
