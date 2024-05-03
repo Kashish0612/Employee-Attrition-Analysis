@@ -7,7 +7,10 @@ innovative team at Unified Mentor.
 <ul>
   <li>
     <ol type = "1">
-    <li>The objective of this project is to gain insights into the factors influencing employee attrition and performance within the orgranization by performing data analysis on employee dataset.</li>
+    <li>The objective of this project is to gain insights into the factors influencing employee attrition
+      and performance within the orgranization by performing data analysis on employee dataset.</li> 
+    <li>To identify patterns, trends  and potential areas for improvement that can help the company better understand manage employee attrition.</li>
+    <li> Tools used in this project  are Power Query , Microsoft Power Bi</li>
   </li>
 </ul>
 
