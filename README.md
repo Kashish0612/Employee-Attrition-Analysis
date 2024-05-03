@@ -28,37 +28,3 @@ tasked with building a dashboard that can assist the organization in making data
   <li>Replaced null values with statistical central tendency using mode.</li>
   <li>Added new columns such as age group , attrition counts , salary slab.</li>
 </ul>
-<h3>Analysis</h3>
-A set of KPIs has been designed to address the following points.
-<br>
-<ul>
-  <li>
-    <strong>Employee Count: </strong>
-    Implementing this KPI allow to asily track the total employee count, facilitating informed workforce planning for future growth or downsizing initiatives. 
-  </li>
-  <li>
-    <strong>Attrition Count :</strong>
-    With this KPIs for tracking employee attrition, the HR department can obtain reliable and comprehnsive data on the number of employees who left the organization.
-  </li>
-  <li>
-    <strong>Attrition Rate : </strong>
-    This helps to identify how many employee left the company within a certain period, so that we can develop effective retention strategies to reduce attrition.
-  </li>
-  <li>
-    <strong> Attrition by Gender :</strong>
-    Tracking attrition by gender helps organization to identify any gender specefic trends, address potential biases, and promote gender diversity and inclusion in the workplace.
-  </li>
-  <li>
-    <strong>Attrition by Education Feild :</strong>
-    Monitoring attrition by education feild helps identify patterns and address retention issues for employees with different educational backgrounds.
-  </li>
-  <li>
-  <strong> Attrition by Age Group :</strong>
-    Keeping an eye on attrition by age group is a KPI that helps identify any age-related patterns or issues impacting employee retention.
-  </li>
-  <li>
-  <strong> Attrition by Job Satisfication : </strong>
-    Tracking attrition by job satisfication as a KPI help gauge the impact of employee satisfication on retention and identify areas for improvement.
-  </li>
-  
-
