@@ -53,3 +53,12 @@ For the Analysis, I have identified the KPIs to track and monitor employee perfo
 
 
 ![Screenshot (95)](https://github.com/Kashish0612/Employee_Attrition_Analysis/assets/134590814/148da8d4-a969-4d83-8655-c956f689cbae)
+
+<h3>Project Learning :</h3>
+<ul>
+  <li>Developed an interactive dashboard with advance filtering options and slicers to analyze employee performance and attrition effectively.</li>
+  <li>Utilized complexed DAX queries to create customized columns and perform data manipulation for insightful analysis.</li>
+  <li>Incorporated various visualization types such as bar charts, area charts, matrix tables, donut charts, slicers and KPIs cards for comprehnsive data representation.</li>
+  <li>Analyzed data to provide practical advice on boosting employee satisfaction and retention, aiming to enhanced overall workforce engagemet.</li>
+</ul>
+
