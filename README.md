@@ -23,8 +23,20 @@ This issue has significantly impacted the company across various aspects. In an 
 tasked with building a dashboard that can assist the organization in making data-driven decisions.
 <h3>Data Cleaning/Transformation :</h3>
 <ul>
-  <li>Checked for Duplicates</li>
+  <li>Checked for Duplicates.</li>
   <li>Checked for Null/Blank values.</li>
   <li>Replaced null values with statistical central tendency using mode.</li>
-  <li>Added new columns such as age group , attrition counts , salary slab</li>
+  <li>Added new columns such as age group , attrition counts , salary slab.</li>
+</ul>
+<h3>Analysis</h3>
+A set of KPIs has been designed to address the following points.
+<ul>
+  <li>
+    <strong>Employee Count: </strong>
+    Implementing this KPI allow to asily track the total employee count, facilitating informed workforce planning for future growth or downsizing initiatives. 
+  </li>
+  <li>
+    <strong>Attrition Count :</strong>
+    With this KPIs for tracking employee attrition, the HR department can obtain reliable and comprehnsive data on the number of employees who left the organization.
+  </li>
 </ul>
