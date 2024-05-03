@@ -2,4 +2,12 @@
 This Repository is about Data Analytics internship, offered by Unified Mentor, provides a comprehensive hands-on experience in the dynamic field of data analytics to gain practical insights 
 into collecting, processing, and analyzing data to derive valuable business insights by creating the opportunity to work with real-time business projects in collaboration with the
 innovative team at Unified Mentor.
+<br>
 <h3>Project Overview</h3>
+<ul>
+  <li>
+    <ol type = "1">
+    <li>The objective of this project is to gain insights into the factors influencing employee attrition and performance within the orgranization by performing data analysis on employee dataset.</li>
+  </li>
+</ul>
+
