@@ -42,4 +42,3 @@ For the Analysis, I have identified the KPIs to track and monitor employee perfo
   <li>Averaye Years</li>
 </ul>
 <h3>Dashboard :</h3>
-<<img src=""C:\Users\Hp\Desktop\employee dashborad 1.png">
