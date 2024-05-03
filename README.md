@@ -16,4 +16,9 @@ innovative team at Unified Mentor.
     Tools used in this project are Power Query, Microsoft Power Bi.
   </li>
 </ol>
-
+<br>
+<h3>Problem Statement</h3>
+XYZ Company, established a few years back, has been experiencing an approximately 15% attrition rate for a couple of years. 
+This issue has significantly impacted the company across various aspects. In an effort to understand why employees are leaving and to reduce the attrition rate,
+ XYZ Company has approached an HR analytics consultancy to analyze the available data.You are playing the role of an HR analyst in this project, 
+tasked with building a dashboard that can assist the organization in making data-driven decisions.
