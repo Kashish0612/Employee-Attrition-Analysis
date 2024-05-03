@@ -29,7 +29,6 @@ tasked with building a dashboard that can assist the organization in making data
   <li>Added new columns such as age group , attrition counts , salary slab.</li>
 </ul>
 <h3>Analysis</h3>
-<br>
 A set of KPIs has been designed to address the following points.
 <br>
 <ul>
@@ -40,5 +39,13 @@ A set of KPIs has been designed to address the following points.
   <li>
     <strong>Attrition Count :</strong>
     With this KPIs for tracking employee attrition, the HR department can obtain reliable and comprehnsive data on the number of employees who left the organization.
+  </li>
+  <li>
+    <strong>Attrition Rate : </strong>
+    This helps to identify how many employee left the company within a certain period, so that we can develop effective retention strategies to reduce attrition.
+  </li>
+  <li>
+    <strong>Average Age :</strong>
+    This insight can inform effective succession planning  and enhanced the organization's ability to attract and retain younger talents.
   </li>
 </ul>
