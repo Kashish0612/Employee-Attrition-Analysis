@@ -31,3 +31,25 @@ The data contained information about employee demographics, job roles, salaries,
   <li>Replaced null values with statistical central tendency using mode.</li>
   <li>Added new columns such as age group , attrition counts , salary slab.</li>
 </ul>
+<h3>Key Performance Indicators (KPIs) :</h3>
+For the Analysis, I have identified the KPIs to track and monitor employee performance and attrition. The following KPIs were designed to address
+<ul>
+  <li>Employee Count</li>
+  <li> Atrrition Count</li>
+  <li> Attrition Rate </li>
+  <li> Average Age </li>
+  <li> Average Salary</li>
+  <li>Averaye Years</li>
+  <li>Attrition by Education Feild</li>
+  <li> Attrition by Age Group</li>
+  <li> Attrition by Job Satisfication</li>
+  <li> Attrition by Salary Slab</li>
+  <li> Attrition by YearsatCompany</li>
+  <li> Attrition by Job Role</li>
+  <li> Attrition by  Business Travel</li>
+  <li> Attrition by Job levels</li>
+  <li>Attrition by Work Life Balance</li>
+  <li>Attrition by Performance Rates</li>
+  <li> Attrition by Enviroment Satisfication</li>
+  <li> Attrition by  Job Involvement</li>
+</ul>
