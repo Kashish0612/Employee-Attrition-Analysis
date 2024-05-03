@@ -3,7 +3,7 @@ This Repository is about Data Analytics internship, offered by Unified Mentor, p
 into collecting, processing, and analyzing data to derive valuable business insights by creating the opportunity to work with real-time business projects in collaboration with the
 innovative team at Unified Mentor.
 <br>
-<h3>Project Overview</h3>
+<h3>Project Overview :</h3>
 <ol type="1">
   <li>
     The objective of this project is to gain insights into the factors influencing employee attrition
@@ -17,8 +17,9 @@ innovative team at Unified Mentor.
   </li>
 </ol>
 <br>
-<h3>Problem Statement</h3>
+<h3>Problem Statement :</h3>
 XYZ Company, established a few years back, has been experiencing an approximately 15% attrition rate for a couple of years. 
 This issue has significantly impacted the company across various aspects. In an effort to understand why employees are leaving and to reduce the attrition rate,
  XYZ Company has approached an HR analytics consultancy to analyze the available data.You are playing the role of an HR analyst in this project, 
 tasked with building a dashboard that can assist the organization in making data-driven decisions.
+<h3>Data Source :</h3>
