@@ -41,3 +41,4 @@ For the Analysis, I have identified the KPIs to track and monitor employee perfo
   <li> Average Salary</li>
   <li>Averaye Years</li>
 </ul>
+<h3>Dashboard</h3>
