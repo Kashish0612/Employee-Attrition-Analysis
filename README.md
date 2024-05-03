@@ -42,4 +42,5 @@ For the Analysis, I have identified the KPIs to track and monitor employee perfo
   <li>Averaye Years</li>
 </ul>
 <h3>Dashboard :</h3>
-"C:\Users\Hp\Desktop\employee dashborad 1.png"
+
+![Screenshot (92)](https://github.com/Kashish0612/Employee_Attrition_Analysis/assets/134590814/c54adc48-482f-4410-a767-a49c49bf5034)
