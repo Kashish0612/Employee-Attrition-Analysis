@@ -44,3 +44,12 @@ For the Analysis, I have identified the KPIs to track and monitor employee perfo
 <h3>Dashboard :</h3>
 
 ![Screenshot (92)](https://github.com/Kashish0612/Employee_Attrition_Analysis/assets/134590814/c54adc48-482f-4410-a767-a49c49bf5034)
+
+
+![Screenshot (93)](https://github.com/Kashish0612/Employee_Attrition_Analysis/assets/134590814/2e9a5801-34b1-49ae-94f0-058a9dbdff2d)
+
+
+![Screenshot (94)](https://github.com/Kashish0612/Employee_Attrition_Analysis/assets/134590814/49875eda-65f4-4644-814d-caec09aa7964)
+
+
+![Screenshot (95)](https://github.com/Kashish0612/Employee_Attrition_Analysis/assets/134590814/148da8d4-a969-4d83-8655-c956f689cbae)
