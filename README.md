@@ -1,7 +1,5 @@
 # Employee_Attrition_Analysis
-This Repository is about Data Analytics internship, offered by Unified Mentor, provides a comprehensive hands-on experience in the dynamic field of data analytics to gain practical insights 
-into collecting, processing, and analyzing data to derive valuable business insights by creating the opportunity to work with real-time business projects in collaboration with the
-innovative team at Unified Mentor.
+This repository contains a project from the Unified Mentor Data Analytics Internship Program focused on analyzing employee attrition rates. As a data analyst, you will use analytics tools to identify key patterns and provide insights to improve retention strategies. The role involves data collection, cleaning, analysis, and creating visualizations and reports to communicate findings, providing hands-on experience and contributing to organizational improvements.
 <br>
 <h3>Project Overview :</h3>
 <ol type="1">
